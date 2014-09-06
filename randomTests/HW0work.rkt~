@@ -1,0 +1,15 @@
+#lang plai-typed
+
+(define (insertion-sort [x : (listof number)]) : (listof number)
+  
+  (define (sands x)
+    (cond
+      [(empty? x) empty]
+      [else (cons (+ (first x) 5)
+                  (sands (rest x)))]))
+  
+ <procedure>
+  )
+
+
+
