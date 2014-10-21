@@ -1,0 +1,13 @@
+
+
+Comments:
+
+I think we should look at a lot of code in dr racket and run stuff and look at errors etc so we can actually learn how the language works. 
+
+I spent hours working on this program to learn the basic fundamentals of the language that I would normally have learned by looking at existing code. Many computer science people learn best by example, so if we could look at a lot of working/unworking code to get a better understanding of what we should/should be doing that would be awesome!
+
+also, will we be moving on to java at some point? you seemed really confident about it in class today when you wrote that one line and explained it. 
+
+If you have any questions about my code feel free to ask me.
+
+Thanks! 

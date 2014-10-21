@@ -1,0 +1,16 @@
+#lang plai-typed
+
+(define (zero f x) x)
+
+(define (one f x) (f x))
+
+(define (two f x) (f (f x)))
+
+
+(zero rest 1)
+
+(one rest(list 1 2 3 4))
+
+(two rest(list 1 2 3 4))
+
+(
